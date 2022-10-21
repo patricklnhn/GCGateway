@@ -1,0 +1,17 @@
+build_image:
+  image: docker:20.10.17
+  services: 
+    - docker:19.03.15-dind
+  variables:
+    DOCKER_TLS_CERTDIR: ''
+    DOCKER_HOST: tcp://localhost:2375
+    DOCKER_DRIVER: overlay2
+    https_proxy: "http://proxy.drift.nhn.no:8080"
+    http_proxy: "http://proxy.drift.nhn.no:8080"
+    NO_PROXY: "gitlab.nhn.no"
+
+  before_script: 
+#    - docker login -u $REGISTRY_USER -p $REGISTRY_PASSWORD ncr.sky.nhn.no
+  script:
+    - docker build -t ncr.sky.nhn.no/team-iu/nhngcgatewawy:latest GCGateway/
+    - docker push ncr.sky.nhn.no/team-iu/REPOSITORY[:TAG]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHNOffersAndServices", "NHNOffersAndServices\NHNOffersAndServices.csproj", "{29077EEF-BA55-4545-BEB2-725D05532A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffersAndServicesDatabase", "OffersAndServicesDatabase\OffersAndServicesDatabase.csproj", "{B38DDAC6-5B15-41C8-9215-08A9FFF44255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29077EEF-BA55-4545-BEB2-725D05532A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29077EEF-BA55-4545-BEB2-725D05532A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29077EEF-BA55-4545-BEB2-725D05532A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29077EEF-BA55-4545-BEB2-725D05532A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38DDAC6-5B15-41C8-9215-08A9FFF44255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38DDAC6-5B15-41C8-9215-08A9FFF44255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38DDAC6-5B15-41C8-9215-08A9FFF44255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38DDAC6-5B15-41C8-9215-08A9FFF44255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A299A2E-ECEA-449C-80C8-8B469333AE8A}
+	EndGlobalSection
+EndGlobal

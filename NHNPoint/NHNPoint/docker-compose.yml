@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  nhnpoint:
+    image: ${DOCKER_REGISTRY-}nhnpoint
+    build:
+      context: .
+      dockerfile: NHNPoint/Dockerfile

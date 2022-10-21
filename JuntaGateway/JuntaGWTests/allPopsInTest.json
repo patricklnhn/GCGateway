@@ -1,0 +1,2562 @@
+[
+  {
+    "name": "Forskningsparken i Troms\u00f8",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 31147,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "FOP datasenter",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 31148,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "FOP Telco",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 31149,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Strandgata 5-7",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 31152,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Prinsensgate 39",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32048,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "Prinsensgate 39 Braodnet losjirom",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32049,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "PRINSG39_WDM_6.2.008",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32050,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "Digiplex, Oslo",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32055,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "Digiplex, CCR-A",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32060,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "Digiplex, CCR-B",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32062,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "Digiplex, CCR-C",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32063,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "Basefarm Stanseveien",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32064,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "Telco-1",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32065,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "Telco-2",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32066,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "Sentralblokka Haukeland",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32067,
+      "room": "",
+      "street": "Jonas Lies vei",
+      "street_no": "65",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "Helsedirektoratet, UNI2",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32068,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "Helsedirektoratet, NK03",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32069,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "Radioforsterker",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32070,
+      "room": "8257",
+      "street": "Jonas Lies vei",
+      "street_no": "65",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "Auge bygget",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32071,
+      "room": "",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "Auge telco",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32072,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "Lars Hilles",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32076,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "Larsh",
+    "address": {
+      "bnr": "",
+      "floor": "6",
+      "gnr": "",
+      "id": 32077,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "St. Olavs Hospital",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32086,
+      "room": "",
+      "street": "Prinsesse Kristinas gate",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4187055,
+    "geo_longtitude": 10.387764,
+    "cis": []
+  },
+  {
+    "name": "Forsyningssenteret, St. Olavs",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32087,
+      "room": "",
+      "street": "Prinsesse Kristinas gate",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4187055,
+    "geo_longtitude": 10.387764,
+    "cis": []
+  },
+  {
+    "name": "NTNU Realfagsbygget",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32088,
+      "room": "",
+      "street": "H\u00f8gskoleringen",
+      "street_no": "5",
+      "zip": "7034",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4154768,
+    "geo_longtitude": 10.4061429,
+    "cis": []
+  },
+  {
+    "name": "Broadnet Losjirom",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32089,
+      "room": "",
+      "street": "H\u00f8gskoleringen",
+      "street_no": "5",
+      "zip": "7034",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4154768,
+    "geo_longtitude": 10.4061429,
+    "cis": []
+  },
+  {
+    "name": "NTNU_ODF_0102",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32090,
+      "room": "",
+      "street": "H\u00f8gskoleringen",
+      "street_no": "5",
+      "zip": "7034",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4154768,
+    "geo_longtitude": 10.4061429,
+    "cis": []
+  },
+  {
+    "name": "HAUKELSu1_WDM_1.1.02 TPD10GbE-BU",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32091,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "UNI2u3_WDM_100 CO-D40EV",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32093,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "Dora",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32219,
+      "room": "",
+      "street": "Maskinistgata",
+      "street_no": "1",
+      "zip": "7042",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.439565,
+    "geo_longtitude": 10.4190684,
+    "cis": []
+  },
+  {
+    "name": "Dora - Datasenter",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32220,
+      "room": "",
+      "street": "Maskinistgata",
+      "street_no": "1",
+      "zip": "7042",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.439565,
+    "geo_longtitude": 10.4190684,
+    "cis": []
+  },
+  {
+    "name": "ODF 0401",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32227,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "ODF_0103",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32228,
+      "room": "",
+      "street": "Maskinistgata",
+      "street_no": "1",
+      "zip": "7042",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.439565,
+    "geo_longtitude": 10.4190684,
+    "cis": []
+  },
+  {
+    "name": "LARSHTH_ODF_0202",
+    "address": {
+      "bnr": "",
+      "floor": "6",
+      "gnr": "",
+      "id": 32229,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "MAS1e2_ODF1012",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32230,
+      "room": "",
+      "street": "Maskinistgata",
+      "street_no": "1",
+      "zip": "7042",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.439565,
+    "geo_longtitude": 10.4190684,
+    "cis": []
+  },
+  {
+    "name": "HAUKELSu1_ODF_01",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32231,
+      "room": "8257",
+      "street": "Jonas Lies vei",
+      "street_no": "65",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "NTNU_ODF_0102",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32232,
+      "room": "",
+      "street": "H\u00f8gskoleringen",
+      "street_no": "5",
+      "zip": "7034",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4154768,
+    "geo_longtitude": 10.4061429,
+    "cis": []
+  },
+  {
+    "name": "PRINSG39_WDM_8.1.12 I04TQ10G-1",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32234,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "ODF 3328",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32237,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "Helsedirektoratet, ODF 0101",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32238,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "Auge, JON72Cu1_WDM_100 CO-D40EV (NHN),",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32246,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "ODF 0103",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32248,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "Nevrosenteret",
+    "address": {
+      "bnr": "",
+      "floor": "u1",
+      "gnr": "",
+      "id": 32249,
+      "room": "",
+      "street": "Harald Hardr\u00e5des gat",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4207642,
+    "geo_longtitude": 10.3891385,
+    "cis": []
+  },
+  {
+    "name": "Noderom",
+    "address": {
+      "bnr": "",
+      "floor": "u1",
+      "gnr": "",
+      "id": 32250,
+      "room": "",
+      "street": "Harald Hardr\u00e5des gat",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4207642,
+    "geo_longtitude": 10.3891385,
+    "cis": []
+  },
+  {
+    "name": "HAR5u1m1_ODF_0101",
+    "address": {
+      "bnr": "",
+      "floor": "u1",
+      "gnr": "",
+      "id": 32251,
+      "room": "",
+      "street": "Harald Hardr\u00e5des gat",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4207642,
+    "geo_longtitude": 10.3891385,
+    "cis": []
+  },
+  {
+    "name": "PRINSG39_ODF_0701",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32252,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "RIT_ODF_0502",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32253,
+      "room": "",
+      "street": "Prinsesse Kristinas gate",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4187055,
+    "geo_longtitude": 10.387764,
+    "cis": []
+  },
+  {
+    "name": "ODF 0101 ",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32254,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Pronea skap R1P1",
+    "address": {
+      "bnr": "",
+      "floor": "2",
+      "gnr": "",
+      "id": 32255,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "ODF",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32256,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "UNI2u3_WDM_101 CO-D40EV (NHN)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32258,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "RIT_WDM_100 CO-D40EV (NHN)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32259,
+      "room": "",
+      "street": "Prinsesse Kristinas gate",
+      "street_no": "5",
+      "zip": "7030",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4187055,
+    "geo_longtitude": 10.387764,
+    "cis": []
+  },
+  {
+    "name": "PRINSG39_ODF_0404",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32260,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "NTNU_ODF_0101",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32261,
+      "room": "",
+      "street": "H\u00f8gskoleringen",
+      "street_no": "5",
+      "zip": "7034",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4154768,
+    "geo_longtitude": 10.4061429,
+    "cis": []
+  },
+  {
+    "name": "LARSHTH_ODF_0203",
+    "address": {
+      "bnr": "",
+      "floor": "6",
+      "gnr": "",
+      "id": 32263,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "STRAN5_WDM_2.2.008 I04TQ10G-1",
+    "address": {
+      "bnr": "",
+      "floor": "2",
+      "gnr": "",
+      "id": 32264,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "PRINSG39_WDM_9.1.005",
+    "address": {
+      "bnr": "",
+      "floor": "3",
+      "gnr": "",
+      "id": 32265,
+      "room": "",
+      "street": "Prinsensgate",
+      "street_no": "39",
+      "zip": "7011",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.431262,
+    "geo_longtitude": 10.392307,
+    "cis": []
+  },
+  {
+    "name": "ODF 1",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32272,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "NTNUu4_WDM_1.1.02 TPD10G-BU",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32273,
+      "room": "",
+      "street": "H\u00f8gskoleringen",
+      "street_no": "5",
+      "zip": "7034",
+      "city": "TRONDHEIM"
+    },
+    "geo_latitude": 63.4154768,
+    "geo_longtitude": 10.4061429,
+    "cis": []
+  },
+  {
+    "name": "Telco 2B",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32274,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "NHN modul",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32275,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "STANSE30u1NHN_WDM_101 CO-D40EV(NHN)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32276,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "larshth, BT/ODF 01, ODF 0206",
+    "address": {
+      "bnr": "",
+      "floor": "6",
+      "gnr": "",
+      "id": 32277,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "JON72Cu1_ODF_0101",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32278,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "HV ODF H.S. R/F rom 595-(R/F-rom)F391-48SM",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32279,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "HV ODF HS-\u00f8yeavd 589-006-F391-48SM",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32280,
+      "room": "8257",
+      "street": "Jonas Lies vei",
+      "street_no": "65",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "NHN BSF UNI2",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32504,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "NHN BSF DIG",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32505,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DV17.U40:001-048 (Fra Telco 1)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32506,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ17.U47:001-048 (Fra Telco 2)",
+    "address": {
+      "bnr": "",
+      "floor": "1",
+      "gnr": "",
+      "id": 32507,
+      "room": "2A",
+      "street": "Knausen",
+      "street_no": "169",
+      "zip": "9018",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "03DZ17.U48:001-024 (Fra Telco 2)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32508,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ19.U44:001-048 (Fra Telco 2B.U40:001-048)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32509,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ19.U45:019-024(til 03DZ17.U42)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32510,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ19.U45:001-006 (til 03DV17.U20)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32511,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ17.U42:001-006 (til 03DZ19.U45)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32512,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ17.U46:001-006 (til 03CE25.U06)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32513,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DZ17.U32:001-012 (til 03DV17.U32)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32514,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03Dz17.U30:001-006 (til 03DV19.U45)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32515,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DV17.U32:001-012 (til 03DZ17.U32)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32516,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DV17.U30:001-006 (til 03DZ19.U45)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32517,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": [
+      {
+        "name": "alleen-pix.rtr.nhn.no",
+        "product": "Cisco PIX"
+      }
+    ]
+  },
+  {
+    "name": "03DV17.U42:001-006 (til 03DV19.U45)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32518,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DV17.U48:001-024 (til Telco01.06.U35:001-024)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32519,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DV17.U46:001-006 (til 03CE29.U08)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32520,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "03DV19.U45:001-006 (til 03DV17.U42:001-006)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32521,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": [
+      {
+        "name": "bronnoy-fly-pix.rtr.nhn.no",
+        "product": "Cisco PIX"
+      }
+    ]
+  },
+  {
+    "name": "03DV19.U45:019-024 (til 03DZ17.U30:001-006)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32522,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "NHN UNI2 BSF",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32523,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "Telco 2B.U40:001-048 (til 03DZ19.U44:001-048)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32524,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "STANSEVEIEN 30 ODF 0101",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32525,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "Tel01.06.U35:001-024 (03DV17.U48:001-024)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32526,
+      "room": "",
+      "street": "Stanseveien",
+      "street_no": "30",
+      "zip": "0976",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9493648,
+    "geo_longtitude": 10.8812405,
+    "cis": []
+  },
+  {
+    "name": "Sykehuspartner sone",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32527,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "NHN DIG BSF",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32528,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF 0101",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32529,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "FM237-1",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32530,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF-C01 (til CCR-C FM237-1)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32531,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "NHN UNI2 DIG",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32539,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "Helsedirektoratet, ODF 0102",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32540,
+      "room": "",
+      "street": "Universitetsgata",
+      "street_no": "2",
+      "zip": "0164",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9175626,
+    "geo_longtitude": 10.7399908,
+    "cis": []
+  },
+  {
+    "name": "NHN DIG UNI2",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32541,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ULV89SP_WDM_102 CO-D40EV (NHN)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32549,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ULV89SP_WDM_101 CO-D40EV (NHN)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32550,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF- B01 (til CCR-B FM036-1)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32551,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF-A01 (til CCR-A2 FM001-1)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32553,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF-B02 (til CCR-B FM036-2)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32554,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF-C02 (til CCR-C FM237-2)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32555,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "FM001-1 (til ODF-A01)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32556,
+      "room": "8257",
+      "street": "Jonas Lies vei",
+      "street_no": "65",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "Fm036-2 (til ODF-B02)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32557,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "FM237-1 (til ODF-C02)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32558,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "FM036-1 (til ODF-B01)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32559,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "ODF-B03 (til CCR-B FM018-5)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32560,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "FM018-5 (til ODF-B03)",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32561,
+      "room": "",
+      "street": "Ulvenveien",
+      "street_no": "89B",
+      "zip": "0581",
+      "city": "OSLO"
+    },
+    "geo_latitude": 59.9247264,
+    "geo_longtitude": 10.8101831,
+    "cis": []
+  },
+  {
+    "name": "NHN HAUK AUGE",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32562,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "NHN HAUK LARSH",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32563,
+      "room": "8257",
+      "street": "Jonas Lies vei",
+      "street_no": "65",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "NHN AUGE HAUK",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32564,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "NHN AUGE LARSH",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32565,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "NHN LARSH HAUK",
+    "address": {
+      "bnr": "",
+      "floor": "6",
+      "gnr": "",
+      "id": 32566,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "NHN LARSH AUGE",
+    "address": {
+      "bnr": "",
+      "floor": "6",
+      "gnr": "",
+      "id": 32567,
+      "room": "",
+      "street": "Lars Hilles gate",
+      "street_no": "20A",
+      "zip": "5008",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.3743211,
+    "geo_longtitude": 5.3541362,
+    "cis": []
+  },
+  {
+    "name": "NHN STRAND5 FOP",
+    "address": {
+      "bnr": "",
+      "floor": "2",
+      "gnr": "",
+      "id": 32572,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "NHN STRAND5 KLO35",
+    "address": {
+      "bnr": "",
+      "floor": "2",
+      "gnr": "",
+      "id": 32573,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "ODF E0101 (til skap div-c02 panel3)",
+    "address": {
+      "bnr": "",
+      "floor": "2",
+      "gnr": "",
+      "id": 32574,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Panel 2 (til BBFT-skap-A16 panel6)",
+    "address": {
+      "bnr": "",
+      "floor": "2",
+      "gnr": "",
+      "id": 32575,
+      "room": "",
+      "street": "Strandgata",
+      "street_no": "5-7",
+      "zip": "9008",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "NHN FOP STRAND5",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32576,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "NHN FOP KLO35",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32577,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "NHN KLO35 FOP",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32578,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "NHN KLO35 STRAND5",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32579,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Panel 3 Kassett 4 (til GS2 Panel 4 kassett 1)",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32589,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Panel 4 Kassett 1 (til rack 301 Panel 3 Kassett 4)",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32590,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Panel 3 Kassett 3 (til GS1 Panel 3 kassett 2) ",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32591,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Panel 3 Kassett 2 (til Rack 401 Panel 3 Kassett 3)",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32592,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Panel 1 Kassett 1 (til Rack 401 Panel 1 kassett 1)",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32593,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Panel 1 Kassett 1 (til Rack 301 Panel 1 kassett 1)",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32594,
+      "room": "DS2",
+      "street": "Klokkarg\u00e5rdsbakken ",
+      "street_no": "35",
+      "zip": "9037",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 69.6811355127,
+    "geo_longtitude": 18.9777982235,
+    "cis": []
+  },
+  {
+    "name": "Broadnet ODF",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32595,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "FOP-OP-001",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32596,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "FOP-OP-001",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32597,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Trofi",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32759,
+      "room": "",
+      "street": "Knausen",
+      "street_no": "169",
+      "zip": "9018",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Trofi datarom",
+    "address": {
+      "bnr": "",
+      "floor": "1",
+      "gnr": "",
+      "id": 32761,
+      "room": "2A",
+      "street": "Knausen",
+      "street_no": "169",
+      "zip": "9018",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Trofi datarom ODF-panel 1",
+    "address": {
+      "bnr": "",
+      "floor": "1",
+      "gnr": "",
+      "id": 32763,
+      "room": "2A",
+      "street": "Knausen",
+      "street_no": "169",
+      "zip": "9018",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "br1.test",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32841,
+      "room": "0006",
+      "street": "Jonas Lies vei",
+      "street_no": "72",
+      "zip": "5053",
+      "city": "BERGEN"
+    },
+    "geo_latitude": 60.375565,
+    "geo_longtitude": 5.3530891,
+    "cis": []
+  },
+  {
+    "name": "test.rmh",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32843,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Ambulanse_router_01",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32845,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Troms\u00f8 Ambulanse 1",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32848,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Troms\u00f8 Ambulanse 1 Telenor",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32849,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Unn Troms\u00f8 pop",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32850,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Unn Narvik PoP",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32851,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "uniq.rmh.nhn.no",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32852,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Ambulanse OSL",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32853,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "amb_osl",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32854,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "rmh-hs\u00f8",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32855,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "HELSVEST-rmh",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32856,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Ambulanse_vest",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32857,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "Ruter-vest-rmh",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32858,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  },
+  {
+    "name": "telenor.rmh.nhn.no",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 32859,
+      "room": "",
+      "street": "",
+      "street_no": null,
+      "zip": "",
+      "city": "INGEN POSTNUMMER"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": []
+  }
+]

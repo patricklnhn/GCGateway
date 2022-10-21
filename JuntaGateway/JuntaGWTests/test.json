@@ -1,0 +1,156 @@
+﻿{
+  "Foo":
+  {
+    "name": "Forskningsparken i Troms\u00f8",
+    "address": {
+      "bnr": "",
+      "floor": "",
+      "gnr": "",
+      "id": 31147,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "FOP datasenter",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 31148,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "FOP Telco",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 31149,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "ODF 0101 ",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32254,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "NHN FOP STRAND5",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32576,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "NHN FOP KLO35",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32577,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "Broadnet ODF",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32595,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "FOP-OP-001",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32596,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  },
+  {
+    "name": "FOP-OP-001",
+    "address": {
+      "bnr": "",
+      "floor": "0",
+      "gnr": "",
+      "id": 32597,
+      "room": "",
+      "street": "Sykehusveien",
+      "street_no": "23",
+      "zip": "9019",
+      "city": "TROMS\u00d8"
+    },
+    "geo_latitude": 0.0,
+    "geo_longtitude": 0.0,
+    "cis": ""
+  }
+}
